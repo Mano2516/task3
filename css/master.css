@@ -1,0 +1,136 @@
+.one {
+    width: 500px;
+    padding-top: 20px;
+    margin: 20px auto;
+}
+.assign-1-shape-1 {
+    background-color: rgb(137, 43, 226);
+    width: 500px;
+    padding-top: 20px;
+    margin: 20px auto;
+}
+.assign-1-shape-2 {
+    background-color: rgba(137, 43, 226, 0.507);
+    width: 500px;
+    padding-top: 20px;
+    margin: 20px auto;
+}
+.assign-1-shape-3 {
+    background-color: rgba(137, 43, 226, 0.1);
+    width: 500px;
+    padding-top: 20px;
+    margin: 20px auto;
+}
+.assign-2-shape-1 {
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-image: url('../img/team-03.jpg');
+    background-size: 200px 200px ;
+    background-repeat: no-repeat;
+    margin: 30px;
+}
+.assign-2-shape-2 {
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-image: url('../img/team-03.jpg');
+    background-size: 200px 200px ;
+    background-repeat: repeat-y;
+    margin: 30px;
+}
+.assign-2-shape-3 {
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-image: url('../img/team-03.jpg');
+    background-size: 200px 200px ;
+    background-repeat: repeat-x;
+    margin: 30px;
+}
+.assign-2-shape-4 {
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-image: url('../img/team-03.jpg');
+    background-size: 200px 200px ;
+    background-repeat: repeat;
+    margin: 30px;
+}
+
+    .one {
+        background-color: #ddd;
+        width: 90px;
+        height: 60px;
+        text-align: center;
+        margin: 10px 0;
+        border: 5px solid red;
+        outline: black 5px solid;
+    }
+    .two {
+        background-color: #ddd;
+        width: 90px;
+        height: 80px;
+        text-align: center;
+        margin: -100px 0 0 120px;
+        text-align: center;
+        outline: black 5px solid;
+        border:  solid 5px;
+        border-color: blue green blue green;
+    }
+    .three {
+        background-color: #ddd;
+        width: 90px;
+        height: 80px;
+        text-align: center;
+        text-align: center;
+        margin: -90px 0 0 250px;
+        outline: black 5px solid;
+        border: 5px dashed;
+        border-color: red green blue yellow;
+    }
+.ele1 {
+    padding: 20px;
+    width: fit-content;
+    max-width: 400px ;
+    color: white;
+    background-color: red;
+    height: fit-content;
+    text-transform: capitalize;
+}
+.ele2 {
+    margin-top: 20px;
+    padding: 20px;
+    width: fit-content;
+    max-width: 400px ;
+    color: white;
+    background-color: red;
+    height: fit-content;
+    text-transform: capitalize;
+}
+.ele3 {
+    margin-top: 20px;
+    padding: 20px;
+    width: fit-content;
+    max-width: 400px ;
+    color: white;
+    background-color: red;
+    height: fit-content;
+    text-transform: capitalize;
+}
+.ele4 {
+    margin-top: 20px;
+    padding: 20px;
+    width: fit-content;
+    max-width: 400px ;
+    color: white;
+    background-color: red;
+    height: fit-content;
+    text-transform: capitalize;
+}
+.final  {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    text-shadow: 1px 1px 0px red , 2px 2px 0px blue , 3px 3px 0px violet ;
+}
